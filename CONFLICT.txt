@@ -1,1 +1,1 @@
-hello CONFLICT
+hello CONFLICT master modify
